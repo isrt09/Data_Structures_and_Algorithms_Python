@@ -1,4 +1,4 @@
-# Data Structures and Algorithms - Coding Interview with Python
+## Data Structures and Algorithms - Coding Interview with Python
 Analyze, Implement Data Structures and Algorithms using Python With Interview Questions.  It will prepare for ready to work as an Intern, Fresher, Developer and Freelancer
 
 1. Essential Concepts
