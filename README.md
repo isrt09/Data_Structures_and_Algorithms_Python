@@ -43,5 +43,61 @@ Depth First Search: PreOrder, InOrder, PostOrder
 - Detect Capital
 - Reverse String
 - Longest Palindromic Substring
-
-5. LeetCode 50 Algorithms Coding Interview Questions with Python
+- Best Time To Buy And Sell Stocks
+- Binary Tree Level Order Traversal
+- Binary Tree Maximum Path Sum
+- Letter Combinations of a Phone Number
+- Merge k Sorted Lists
+- Serialize and Deserialize Binary Tree
+- Add Binary
+- Add Two Numbers
+- Binary Tree Post Order Traversal
+- Binary Tree Zigzag Level Order Traversal
+- Boats to save people
+- Climbing Stairs
+- Coin Change
+- Fix Coin Change Missing Code
+- Combination Sum
+- Contain Duplicate
+- Container with most water
+- Count Primes
+- Fix Count Primes
+- Find First and Last position of last element in sorted array
+- Fix First and Last position of element in sorted array code
+- First Bad version
+- Group anagrams
+- House Robber
+- Tweaks to house robber solution to reflect new video
+- kth smallest element in a bst
+- New solution for kth smallest element in bst
+- Linked list cycle
+- Longest palindromic substring
+- Longest substring without repeating characters
+- Lowest common ancestor of a binary tree
+- lru cache
+- Majority element
+- Maximum depth of a binary tree
+- Merge 2 sorted lists
+- Min stack
+- Minimum window substring
+- Missing number
+- Move zeroes
+- Fix moves zeros
+- Network Delay Time
+- Odd Even Linkedlist
+- Palindrome Partitioning
+- Path Sum
+- Reverselinked list
+- Robot return to origin
+- Single number
+- Subsets
+- Symmetric tree
+- Trapping rain water
+- Two sum
+- Better namings for two sum implementation
+- Unique paths
+- Fix unique paths
+- Valid mountain array
+- Fix valid mountain array code
+- Valid parenthesis
+- Word search
